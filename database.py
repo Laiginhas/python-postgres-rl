@@ -1,5 +1,6 @@
 import psycopg2
 import os
+
 print(os.environ)
 
 # Configurações de conexão
